@@ -1,1 +1,1 @@
-# cancellation-prediction_XGBoost-BalancedBaggingClassifier
+# Cancellation-Prediction_XGBoost-BalancedBaggingClassifier
